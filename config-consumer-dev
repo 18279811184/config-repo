@@ -1,0 +1,7 @@
+# 文件命名规则 --> Application & profile -> {application}-{profile}.yml(.properties、.json)
+info:
+  profile: dev
+  
+name: config-consumer-dev
+words: 'hello welcome to config'
+
