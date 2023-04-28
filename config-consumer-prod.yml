@@ -4,3 +4,4 @@ info:
   
 name: config-consumer-prod
 words: 'hello welcome to config  to prod refresh and refresh'
+food: '{cipher}234e743d683a530219971807d88bd495079f956e8d28cb83ddce2c659cb63830'
